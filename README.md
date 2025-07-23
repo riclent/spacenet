@@ -46,7 +46,7 @@ The fields are designed to be self-explanatory. Modify them as needed to define 
 All files located under `spacenet/js` were developed by other contributors and included here to ensure the package is fully self-contained. 
 
 
-# Credit
+# Credits
 
 If you find this software useful, please considering citing the paper: 
 
