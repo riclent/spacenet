@@ -1,0 +1,22 @@
+body { margin: 0; }
+
+#time {
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-family: Tahoma;
+    font-size: 100%;
+}
+
+.centered-text {
+    text-align: center;
+}
+
+.side-by-side {
+    display: inline-block;
+    width: 45%; /* Adjust as needed */
+    margin-right: 5px; /* Adjust as needed */
+}
+
+
+
