@@ -3,7 +3,7 @@
 
 SPACENET computes communication contact schedules between spacecraft and ground stations using Keplerian orbital dynamics. It models Earth’s rotation and lunar motion to predict line-of-sight access intervals, supporting delay-tolerant networking (DTN) protocol testing and routing validation.
 
-![](screenshot.png)
+![](Screenshot.png)
 
 
 # Installation
